@@ -1,2 +1,2 @@
-# Data_Analytics_Project-
+# Data Analytics Project
 Exploring Real Estate Dynamics: Our data analysis project harnesses Python, Jupyter Notebook, and leading libraries like Statsmodels, NumPy, Scikit-Learn, Seaborn, and Matplotlib. From meticulous data collection to insightful predictive analyses, we delve into the intricate world of real estate. Using statistical modeling and machine learning, we uncover hidden narratives and market trends. Our approach seamlessly blends code and visualizations, offering a comprehensive view of the real estate landscape
